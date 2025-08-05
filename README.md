@@ -21,22 +21,6 @@
 ![GetX](https://img.shields.io/badge/GetX-9C27B0?style=flat&logo=flutter&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=api&logoColor=white)
 
-## 🌟 Featured Projects
-
-<details>
-<summary>📱 <strong>Click to view my projects</strong></summary>
-
-| Project | Link | Description |
-|---------|------|-------------|
-| **Seyyah Mobile** | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.seyyahmobile) | International eSIM management app |
-| **Connects App** | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.connects.nsol) | Multi-level marketing & referrals |
-| **Joy App** | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.alrightech.ddf) | Telemedicine and healthcare services |
-| **YCBuzz** | [![Website](https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://ycbuzz.com/) | Enterprise messaging & productivity |
-| **Nour Alsham** | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.nouralshamapp.nour_alsham) | Restaurant management & delivery |
-| **YC Time Tracker** | [![Snapcraft](https://img.shields.io/badge/Snapcraft-E95420?style=flat&logo=snapcraft&logoColor=white)](https://snapcraft.io/yctimetracker) | Desktop productivity tracking |
-
-</details>
-
 
 ## 🤝 Let's Connect!
 
